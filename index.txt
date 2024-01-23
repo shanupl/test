@@ -1,1 +1,2 @@
 hi am ranu
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIICjuLsxw29Q+bylu/6sdbM+q++PEN6W/ZlUj34TCt9 shanu@trikara.com
